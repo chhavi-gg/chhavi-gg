@@ -10,4 +10,4 @@ I am a Front-end Web Developer who loves contributing to communities. I am curre
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am more into non-tech!
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Glad to see you here! 
