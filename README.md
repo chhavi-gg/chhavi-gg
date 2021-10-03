@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, I'm Chhavi Garg
 
-<!--
-**chhavi-gg/chhavi-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### An all-rounder who can solve any problem, doesn't matter of what domain it is!
 
-Here are some ideas to get you started:
+I am a Front-end Web Developer who loves contributing to communities. I am currently pursuing my Pre-Final B.Tech CSE (Minor in IoT) from Amity University, Noida. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Development and IoT
+- 💬 Ask me about communities, startups and business strategies
+- 📫 How to reach me: https://www.linkedin.com/in/chhavigg
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am more into non-tech!
+
+### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
