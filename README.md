@@ -6,7 +6,7 @@ I am a Front-end Web Developer who loves contributing to communities. I am curre
 
 - 🔭 I’m currently working on Web Development and IoT
 - 💬 Ask me about communities, startups and business strategies
-- 📫 How to reach me: https://www.linkedin.com/in/chhavigg
+- 📫 How to reach me: chhavigarg41@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am more into non-tech!
 
