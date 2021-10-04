@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi 👋, I'm Chhavi Garg <h1 align = "center">
+<h1 align = "center"> Hi 👋, I'm Chhavi Garg </h1>
 <h3 align = "center">An all-rounder who can solve any problem, doesn't matter of what domain it is! </h3>
 
 I am a Front-End Web Developer who loves contributing to communities. I am currently pursuing my Pre-Final B.Tech CSE (Minor in IoT) from Amity University, Noida. I love exploring new technologies and do research on that.
