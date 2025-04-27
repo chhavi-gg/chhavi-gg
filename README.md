@@ -1,13 +1,13 @@
 <h1 align = "center"> Hi 👋, I'm Chhavi Garg </h1>
 <h3 align = "center">An all-rounder who can solve any problem, doesn't matter of what domain it is! </h3>
 
-I am a Front-End Web Developer who loves contributing to communities. I am currently pursuing my Pre-Final B.Tech CSE (Minor in IoT) from Amity University, Noida. I love exploring new technologies and do research on that.
+"I'm Chhavi Garg, Co-Founder of Bharat XR and Arexa, an AR creator and trainer who has empowered over 80,000 learners globally, while also championing diversity in tech as a Google Women Techmakers Ambassador.
 
 ### Glad to see you here! ![](https://komarev.com/ghpvc/?username=chhavi-gg&label=Views&color=blue&style=plastic")
 
 ## More About me 💬 
 
-- 🔭 I’m currently working on **Web Development and IoT**
+- 🔭 I’m currently running Arexa & Bharat XR
 - 💬 Ask me about **communities, startups and business strategies**
 - 📫 How to reach me: **chhavigarg41@gmail.com**
 - 😄 Pronouns: She/Her
