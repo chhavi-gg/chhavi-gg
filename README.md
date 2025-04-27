@@ -1,7 +1,7 @@
 <h1 align = "center"> Hi 👋, I'm Chhavi Garg </h1>
 <h3 align = "center">An all-rounder who can solve any problem, doesn't matter of what domain it is! </h3>
 
-"I'm Chhavi Garg, Co-Founder of Bharat XR and Arexa, an AR creator and trainer who has empowered over 80,000 learners globally, while also championing diversity in tech as a Google Women Techmakers Ambassador.
+I'm Chhavi Garg, Co-Founder of Bharat XR and Arexa, an AR creator and trainer who has empowered over 80,000 learners globally, while also championing diversity in tech as a Google Women Techmakers Ambassador.
 
 ### Glad to see you here! ![](https://komarev.com/ghpvc/?username=chhavi-gg&label=Views&color=blue&style=plastic")
 
